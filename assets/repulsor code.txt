@@ -1,0 +1,1 @@
+for (int j = 0; j < bullet_sprites.size(); j++) { main_window.draw(bullet_sprites[j]); create_bullet.move_sprite(1500.f, 0.f, delta, bullet_sprites[j], false, 0.f, false, 0.f, 0.f, "pos"); }

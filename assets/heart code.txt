@@ -1,0 +1,1 @@
+heart1 = createSprite(displayWidth-150,40,20,20) heart1.visible = false heart1.addImage("heart1",heart1Img) heart1.scale = 0.4
